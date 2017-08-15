@@ -11,14 +11,14 @@
 3、能够进行秒杀业务DAO层的设计与实现
 
 
-#Dao 层开发
+# Dao 层开发
 简介：高并发和秒杀都是当今的热门词汇，如何使用Java框架实现高并发秒杀API是该系列课程要研究的内容。秒杀系列课程分为四门，本门课程是第一门，主要对秒杀业务进行分析设计，
 以及DAO层的实现。课程中使用了流行的框架组合SpringMVC+Spring+MyBatis，还等什么，赶快来加入吧！
 
-#Service 层开发
+# Service 层开发
 简介：本门课程是《Java实现高并发秒杀API》系列课程的第二门课，主要介绍秒杀业务Service层的设计和实现，基于Spring托管Service实现类，
 并使用了Spring声明式事务。秒杀项目使用流行的SpringMVC+Spring+MyBatis整合框架进行开发。非常值得学习呦！
-#Web层开发
+# Web层开发
 简介：本门课程是《Java实现高并发秒杀API》系列课程的第三门课，主要介绍秒杀业务Web层的设计和实现，使⽤用SpringMVC整合spring,实现秒杀restful接⼝。
 秒杀项目使用流行的SpringMVC+Spring+MyBatis整合框架进行开发。非常值得学习呦！
 

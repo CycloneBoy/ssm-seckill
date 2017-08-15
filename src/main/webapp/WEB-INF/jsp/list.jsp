@@ -31,13 +31,13 @@
                                 <td>${sk.name}</td>
                                 <td>${sk.number}</td>
                                 <td>
-                                    <fmt:formatDate value="${sk.startTime}" pattern="YYYY-mm-dd HH:mm:ss"/>
+                                    <fmt:formatDate value="${sk.startTime}" pattern="YYYY-MM-dd HH:mm:ss"/>
                                 </td>
                                 <td>
-                                    <fmt:formatDate value="${sk.endTime}" pattern="YYYY-mm-dd HH:mm:ss"/>
+                                    <fmt:formatDate value="${sk.endTime}" pattern="YYYY-MM-dd HH:mm:ss"/>
                                 </td>
                                 <td>
-                                    <fmt:formatDate value="${sk.createTime}" pattern="YYYY-mm-dd HH:mm:ss"/>
+                                    <fmt:formatDate value="${sk.createTime}" pattern="YYYY-MM-dd HH:mm:ss"/>
                                 </td>
                                 <td>
                                     <a class="btn btn-info" href="/seckill/${sk.seckillId}/detail" target="_blank">link
