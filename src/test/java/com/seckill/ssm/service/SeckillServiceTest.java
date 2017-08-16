@@ -45,7 +45,7 @@ public class SeckillServiceTest {
 
     @Test
     public void exportSeckillUrl() throws Exception {
-        long id = 1016L;
+        long id = 1001L;
         Exposer exposer = seckillService.exportSeckillUrl(id);
         logger.info("exposer={}", exposer);
         /**
